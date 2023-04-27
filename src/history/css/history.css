@@ -1,0 +1,3 @@
+tr[name^="bill_"]{
+	cursor: pointer;
+}

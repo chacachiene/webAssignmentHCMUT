@@ -1,0 +1,4 @@
+Toàn: Customer + Login + Register
+Phát: Admin (dashboard, productList, userList, Comments, orderList + invoice)
+Lưu: Search/Product
+Tùng: Cart
